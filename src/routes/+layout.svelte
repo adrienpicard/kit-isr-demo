@@ -18,4 +18,4 @@
 
 {@render children()}
 
-<button onclick={invalidate}>Invalidate</button>
+<button onclick={invalidate}>Invalidate both pages</button>
